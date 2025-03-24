@@ -11,3 +11,4 @@ wheels/
 
 # Environment Variable
 .env
+deep_research.log
